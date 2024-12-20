@@ -15,5 +15,7 @@ I have created this in React+vite
 
 Run command : npm run dev
 
+login details:
 username = admin
 password = password
+
